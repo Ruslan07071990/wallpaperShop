@@ -1,0 +1,78 @@
+.modalWrapper {
+    position: fixed;
+    top: 0;
+    left: 0; 
+    right: 0;
+    bottom: 0;
+    background-color: rgba(49, 46, 46, 1);
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 720px;
+    height: 340px;
+    box-sizing: border-box;
+    background-color: #e74c3c;
+    border-radius: 4px;
+    color: mediumorchid;
+
+
+    .modalContent {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        font-family: Roboto,sans-serif;
+        font-weight: 400;
+        color: #fff;
+
+        .modalClose {
+            position: absolute;
+            right: 28px;
+            top: 0;
+            font-size: 60px;
+            font-weight: 100;
+            display: inline-flex;
+          
+            text-align: center;
+            box-sizing: border-box;
+            align-items: center;
+            justify-content: center;
+           
+            border: none;
+            color: #fff;
+            cursor: pointer;
+
+          }
+
+        .modalHeader {
+            width: 720px;
+            height: 85px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #d44637;
+            
+            & h2 {
+                margin: 0 30px;
+                font-size: 32px;
+                
+            }
+        }
+        .bodyText {
+            margin: 30px;
+            line-height: 1.6;
+            font-size: 30px;
+        }
+        .modalActions{
+            font-size: 30px;
+        }
+    }
+}

@@ -1,0 +1,1 @@
+export const FORM_CHEC = "FORM_CHEC";

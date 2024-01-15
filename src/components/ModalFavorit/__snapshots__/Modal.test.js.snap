@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot test should Modal render 1`] = `
+<DocumentFragment>
+  <button>
+    OPEN MODAL
+  </button>
+  <div
+    class="modalWrapper"
+  >
+    <div
+      class="modal"
+    >
+      <div
+        class="modalContent"
+      >
+        <div
+          class="modalHeader"
+        >
+          <h2 />
+          <span
+            class="modalClose"
+          >
+            ×
+          </span>
+        </div>
+        <div>
+          <p
+            class="bodyText"
+          />
+          <span
+            class="modalActions"
+          >
+             -  грн
+          </span>
+        </div>
+        <div
+          class="modalActions"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

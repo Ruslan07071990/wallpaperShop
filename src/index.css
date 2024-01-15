@@ -1,0 +1,12 @@
+body {
+  /* background-color: dodgerblue; */
+  background-image: url(../public/img/035634348.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* object-fit: cover; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

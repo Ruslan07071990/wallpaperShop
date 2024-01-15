@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Volkswagen juke",
+    "price": 100000,
+    "image": "1.jpg",
+    "article": "1-1",
+    "color": "Синій",
+    "iSFavorites": false
+  },
+  {
+    "id": 2,
+    "name": "Volkswagen golf",
+    "price": 28500 ,
+    "image": "2.jpg",
+    "article": "1-2",
+    "color": "Сірий",
+    "iSFavorites": false
+  },
+  {
+    "id": 3,
+    "name": "Ford mustang",
+    "price": 60900,
+    "image": "3.jpg",
+    "article": "1-3",
+    "color": "Помаранчевий",
+    "iSFavorites": false
+  },
+  {
+    "id": 4,
+    "name": "lamborghini huracan",
+    "price": 160000,
+    "image": "4.jpg",
+    "article": "1-4",
+    "color": "Рожевий",
+    "iSFavorites": false
+  },
+  {
+    "id": 5,
+    "name": "Porsche taycan",
+    "price": 649,
+    "image": "5.jpg",
+    "article": "1-5",
+    "color": "Сірий",
+    "iSFavorites": false
+  },
+  {
+    "id": 6,
+    "name": "Corvette Wallpapers",
+    "price": 970000,
+    "image": "6.jpg",
+    "article": "1-6",
+    "color": "Помаранчевий",
+    "iSFavorites": false
+  },
+  {
+    "id": 7,
+    "name": "Ford Ram",
+    "price": 352000,
+    "image": "7.jpg",
+    "article": "1-7",
+    "color": "Темно-сірий",
+    "iSFavorites": false
+  },
+  {
+    "id": 8,
+    "name": "Hyundai sonata",
+    "price": 12500,
+    "image": "8.jpg",
+    "article": "1-8",
+    "color": "Білий",
+    "iSFavorites": false
+  },
+  {
+    "id": 9,
+    "name": "Kawasaki Ninja 1000",
+    "price": 998,
+    "image": "9.jpg",
+    "article": "1-9",
+    "color": "Чорний",
+    "iSFavorites": false
+  },
+  {
+    "id": 10,
+    "name": "BMW",
+    "price": 949,
+    "image": "10.jpg",
+    "article": "1-10",
+    "color": "Чорний",
+    "iSFavorites": false
+  },
+  {
+    "id": 11,
+    "name": "Mercedes benz ",
+    "price": 300000,
+    "image": "11.jpg",
+    "article": "1-11",
+    "color": "Чорний",
+    "iSFavorites": false
+  },
+  {
+    "id": 12,
+    "name": "Audi",
+    "price": 200000,
+    "image": "12.jpg",
+    "article": "1-12",
+    "color": "Чорний",
+    "iSFavorites": false
+  }
+]

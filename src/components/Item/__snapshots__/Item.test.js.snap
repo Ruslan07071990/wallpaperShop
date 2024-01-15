@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyComponent should Item render 1`] = `
+<DocumentFragment>
+  <div
+    class="productCard"
+  >
+    <img
+      alt=""
+      class="imageWrapper"
+      src="./img/"
+    />
+    <h3
+      class="productName"
+    >
+      Ford mustang
+    </h3>
+    <p
+      class="count"
+    >
+       Кількість 
+    </p>
+    <div
+      class="cardFooter"
+    >
+      <button
+        class="addFavorite"
+      >
+        <svg
+          data-testid="starIcon"
+        >
+          StarIcon.svg
+        </svg>
+      </button>
+      <p
+        class="productPrice"
+      >
+         грн
+      </p>
+    </div>
+    <button
+      class="addtoCart"
+    >
+      <span>
+        Додати до Кошика
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;

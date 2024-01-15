@@ -1,0 +1,3 @@
+export const SET_FAVOURITE = "SET_FAVOURITE";
+export const CHANGE_FAVOURITE = "CHANGE_FAVOURITE";
+
